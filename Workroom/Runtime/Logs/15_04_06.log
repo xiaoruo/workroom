@@ -1,0 +1,6 @@
+[ 2015-04-06T18:18:13+08:00 ] 127.0.0.1 /workroom/
+ERR: Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2015-04-06T18:22:11+08:00 ] 127.0.0.1 /workroom/
+ERR: Access denied for user 'root'@'localhost' (using password: YES)
+
